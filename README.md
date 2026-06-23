@@ -1,1 +1,0 @@
-# sat-gjk-report
